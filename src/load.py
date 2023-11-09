@@ -35,6 +35,6 @@ if __name__ == '__main__':
     print(all_features_train.shape)
     print(all_labels_train.shape)
 
-    print(all_features_train)
-    print(all_labels_train)
+    # print(all_features_train)
+    # print(all_labels_train)
     
